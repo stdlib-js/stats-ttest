@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-ttest",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "One-sample and paired Student's t-Test.",
   "license": "Apache-2.0",
   "author": {
