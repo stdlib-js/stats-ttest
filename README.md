@@ -318,6 +318,10 @@ This package is part of [stdlib][stdlib], a standard library for JavaScript and 
 
 For more information on the project, filing bug reports and feature requests, and guidance on how to develop [stdlib][stdlib], see the main project [repository][stdlib].
 
+#### Community
+
+[![Chat][chat-image]][chat-url]
+
 ---
 
 ## License
@@ -346,8 +350,11 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-ttest/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/stats-ttest?branch=main
 
-[dependencies-image]: https://img.shields.io/david/stdlib-js/stats-ttest
+[dependencies-image]: https://img.shields.io/david/stdlib-js/stats-ttest.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/stats-ttest/main
+
+[chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
+[chat-url]: https://gitter.im/stdlib-js/stdlib/
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
