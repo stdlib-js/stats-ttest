@@ -31,14 +31,14 @@ var ttest = require( './../../dist' );
 
 // FIXTURES //
 
-var twosidedCustomAlpha = require( './../..xtures/r/twosided_custom_alpha.json' );
-var greaterCustomAlpha = require( './../..xtures/r/greater_custom_alpha.json' );
-var lessCustomAlpha = require( './../..xtures/r/less_custom_alpha.json' );
-var pairedLess = require( './../..xtures/r/paired_less.json' );
-var twosided = require( './../..xtures/r/twosided.json' );
-var greater = require( './../..xtures/r/greater.json' );
-var paired = require( './../..xtures/r/paired.json' );
-var less = require( './../..xtures/r/less.json' );
+var twosidedCustomAlpha = require( './../fixtures/r/twosided_custom_alpha.json' );
+var greaterCustomAlpha = require( './../fixtures/r/greater_custom_alpha.json' );
+var lessCustomAlpha = require( './../fixtures/r/less_custom_alpha.json' );
+var pairedLess = require( './../fixtures/r/paired_less.json' );
+var twosided = require( './../fixtures/r/twosided.json' );
+var greater = require( './../fixtures/r/greater.json' );
+var paired = require( './../fixtures/r/paired.json' );
+var less = require( './../fixtures/r/less.json' );
 
 
 // TESTS //
