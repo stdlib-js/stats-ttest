@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/array-float64": "^0.1.0",
+    "@stdlib/array-float64": "^0.1.1",
     "@stdlib/assert-contains": "^0.1.0",
     "@stdlib/assert-has-own-property": "^0.1.1",
     "@stdlib/assert-is-boolean": "^0.1.1",
@@ -51,9 +51,9 @@
     "@stdlib/constants-float64-ninf": "^0.1.1",
     "@stdlib/constants-float64-pinf": "^0.1.1",
     "@stdlib/math-base-assert-is-nan": "^0.1.1",
-    "@stdlib/math-base-special-abs": "^0.1.0",
+    "@stdlib/math-base-special-abs": "^0.1.1",
     "@stdlib/math-base-special-roundn": "^0.1.0",
-    "@stdlib/math-base-special-sqrt": "^0.1.0",
+    "@stdlib/math-base-special-sqrt": "^0.1.1",
     "@stdlib/stats-base-dists-t-cdf": "^0.1.0",
     "@stdlib/stats-base-dists-t-quantile": "^0.1.0",
     "@stdlib/stats-base-mean": "^0.1.0",
