@@ -59,12 +59,12 @@
     "@stdlib/stats-base-mean": "^0.1.0",
     "@stdlib/stats-base-variance": "^0.1.0",
     "@stdlib/string-format": "^0.1.1",
-    "@stdlib/types": "^0.1.0",
+    "@stdlib/types": "^0.2.0",
     "@stdlib/utils-define-read-only-property": "^0.1.1"
   },
   "devDependencies": {
     "@stdlib/assert-is-object": "^0.1.1",
-    "@stdlib/bench": "^0.1.0",
+    "@stdlib/bench": "^0.2.1",
     "@stdlib/constants-float64-eps": "^0.1.1",
     "@stdlib/random-base-normal": "^0.1.0",
     "@stdlib/random-base-randu": "^0.1.0",
