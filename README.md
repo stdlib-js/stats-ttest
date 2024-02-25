@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ttest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-ttest@deno/mod.js';
+import ttest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-ttest@v0.2.1-deno/mod.js';
 ```
 
 #### ttest( x\[, y]\[, opts] )
@@ -256,7 +256,7 @@ table = out.print();
 
 ```javascript
 var normal = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-normal' ).factory;
-import ttest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-ttest@deno/mod.js';
+import ttest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-ttest@v0.2.1-deno/mod.js';
 
 var rnorm;
 var arr;
