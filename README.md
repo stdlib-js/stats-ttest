@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import ttest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-ttest@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-ttest/tags). For example,
+
+```javascript
 import ttest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-ttest@v0.2.2-deno/mod.js';
 ```
 
@@ -256,7 +261,7 @@ table = out.print();
 
 ```javascript
 var normal = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-normal' ).factory;
-import ttest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-ttest@v0.2.2-deno/mod.js';
+import ttest from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-ttest@deno/mod.js';
 
 var rnorm;
 var arr;
