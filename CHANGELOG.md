@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-08-01)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`ea517aa`](https://github.com/stdlib-js/stdlib/commit/ea517aa369cf753fb29c772a7514bd7a796e0ff3) - **docs:** fix REPL examples in `stats/ttest` [(#2707)](https://github.com/stdlib-js/stdlib/pull/2707) _(by Snehil Shah)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Snehil Shah
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-31)
