@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-06-09)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`3565318`](https://github.com/stdlib-js/stdlib/commit/3565318e3639b3e44890ed15ccd73560d3cac14c) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`ea517aa`](https://github.com/stdlib-js/stdlib/commit/ea517aa369cf753fb29c772a7514bd7a796e0ff3) - **docs:** fix REPL examples in `stats/ttest` [(#2707)](https://github.com/stdlib-js/stdlib/pull/2707) _(by Snehil Shah)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Gururaj Gurram
 -   Snehil Shah
 
 </section>
