@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-01)
+## Unreleased (2026-01-31)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`842892d`](https://github.com/stdlib-js/stdlib/commit/842892db70da69098d8fb271ea19ae45c09a8a0e) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`e342a38`](https://github.com/stdlib-js/stdlib/commit/e342a388619ab71f5222105ec94c5029e42a4458) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`3565318`](https://github.com/stdlib-js/stdlib/commit/3565318e3639b3e44890ed15ccd73560d3cac14c) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`ea517aa`](https://github.com/stdlib-js/stdlib/commit/ea517aa369cf753fb29c772a7514bd7a796e0ff3) - **docs:** fix REPL examples in `stats/ttest` [(#2707)](https://github.com/stdlib-js/stdlib/pull/2707) _(by Snehil Shah)_
@@ -26,9 +28,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Gururaj Gurram
+-   Philipp Burckhardt
 -   Snehil Shah
 
 </section>
